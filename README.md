@@ -7,29 +7,20 @@ It provides visitors with an attractive interface to explore restaurant informat
 
 ### Features
 
-Elegant website design.
-
-Responsive layout.
-
-Restaurant homepage.
-
-Food menu section.
-
-About section.
-
-Reservation section (if implemented).
-
-Food images and visual content.
+- Elegant website design.
+- Responsive layout.
+- Restaurant homepage.
+- Food menu section.
+- About section.
+- Reservation section (if implemented).
+- Food images and visual content.
 
 ### Technologies Used
 
-HTML5
-
-CSS3
-
-JavaScript
-
-Bootstrap5
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap5
 
 ### Project Structure
 
