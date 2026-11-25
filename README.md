@@ -43,7 +43,9 @@ images/ – Website images.
 
 ### How to Run
 Download or clone this repository.
+
 Open the project folder.
+
 Open bsHome.html in your web browser.
 
 ### Author
